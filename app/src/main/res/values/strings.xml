@@ -1,0 +1,29 @@
+<!--
+  ~ Copyright (C) 2023 The Android Open Source Project
+  ~
+  ~ Licensed under the Apache License, Version 2.0 (the "License");
+  ~ you may not use this file except in compliance with the License.
+  ~ You may obtain a copy of the License at
+  ~
+  ~     https://www.apache.org/licenses/LICENSE-2.0
+  ~
+  ~ Unless required by applicable law or agreed to in writing, software
+  ~ distributed under the License is distributed on an "AS IS" BASIS,
+  ~ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+  ~ See the License for the specific language governing permissions and
+  ~ limitations under the License.
+  -->
+<resources>
+    <string name="app_name">Affirmations</string>
+    <string name="affirmation1">"The only limit to our realization of tomorrow is our doubts of today." - Franklin D. Roosevelt</string>
+    <string name="affirmation2">"The best way to predict the future is to create it." - Peter Drucker</string>
+    <string name="affirmation3">"Life is 10% what happens to us and 90% how we react to it." - Charles R. Swindoll</string>
+    <string name="affirmation4">"The purpose of our lives is to be happy." - Dalai Lama</string>
+    <string name="affirmation5">"Get busy living or get busy dying." - Stephen King</string>
+    <string name="affirmation6">"You have within you right now, everything you need to deal with whatever the world can throw at you." - Brian Tracy</string>
+    <string name="affirmation7">"Believe you can and you're halfway there." - Theodore Roosevelt</string>
+    <string name="affirmation8">"Your time is limited, so don’t waste it living someone else’s life." - Steve Jobs</string>
+    <string name="affirmation9">"The best revenge is massive success." - Frank Sinatra</string>
+    <string name="affirmation10">"The mind is everything. What you think you become." - Buddha</string>
+</resources>
+
